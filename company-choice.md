@@ -11,7 +11,8 @@ I chose HealthCore because I believe healthcare systems are vital, and their sec
 <h1>##Most Interesting Departments</h1>
 <h2>1 - Clinical Operations</h2>
 <p>
-I am interested in a clinical operations dashboard that shows appointment volume, patient flow, and documentation time by location.
+I am interested in a clinical operations dashboard that shows appointment volume, patient flow, and documentation time by location.It is interesting to work on a unified electronic health record (EHR) API that exposes data from both EHR systems, AI-assisted clinical documentation to reduce administrative time, visibility of patient history across locations, and a clinical operations dashboard displaying appointment volume, patient flow, and documentation time by location.
+
 </p>
 <h2>2 - Executive Directorate</h2>
 <p>
