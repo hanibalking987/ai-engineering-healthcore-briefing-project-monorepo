@@ -19,14 +19,14 @@ I am interested in a unified executive dashboard featuring real-time KPIs across
 </p>
 
 <h1>Automation challenge</h1>
-Un chatbot de RR.HH. que responda preguntas comunes de la plantilla.
+An HR chatbot that answers common questions from the workforce.
 
 <h1>##My AI Agent Idea</h1>
 <p>
-El agente respondera a solicitudes de un cliente. Primero solicitara informacion de identificacion, por ejemplo nombre y NSS. Escuchara las preguntas y enviara las respuestas de acuerdo a la documentacion y politicas del grupo.
+The agent will respond to client requests. First, they will request identification information, such as name and Social Security number. They will listen to the questions and provide answers in accordance with the group's documentation and policies.
 </p>
 <p>
-Para poder interactuar necesita mediante un chat web solicitar la informacion, puede ser tambien mediante un celular.
+To interact, you need to request the information via web chat; this can also be done using a mobile phone.
 </p>
 
 </html>
